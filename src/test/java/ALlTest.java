@@ -1,4 +1,4 @@
-import business.certificate.IdentityUtil;
+import com.mine.util.business.certificate.IdentityUtil;
 import org.junit.jupiter.api.Test;
 
 public class ALlTest {

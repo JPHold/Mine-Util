@@ -1,4 +1,4 @@
-package business.certificate;
+package com.mine.util.business.certificate;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
